@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>林昌发</title>
+  
+  <subtitle>简单的网站</subtitle>
+  <link href="https://lcf2827.gitee.io/atom.xml" rel="self"/>
+  
+  <link href="https://lcf2827.gitee.io/"/>
+  <updated>2023-03-27T06:37:26.921Z</updated>
+  <id>https://lcf2827.gitee.io/</id>
+  
+  <author>
+    <name>林昌发</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第四篇文章</title>
+    <link href="https://lcf2827.gitee.io/2023/03/26/%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://lcf2827.gitee.io/2023/03/26/%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2023-03-26T15:38:34.000Z</published>
+    <updated>2023-03-27T06:37:26.921Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;情感感悟&quot;&gt;&lt;a href=&quot;#情感感悟&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第三篇文章</title>
+    <link href="https://lcf2827.gitee.io/2023/03/26/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://lcf2827.gitee.io/2023/03/26/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2023-03-26T15:38:12.000Z</published>
+    <updated>2023-03-27T06:37:34.697Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;AI绘画技术&quot;&gt;&lt;a href=&quot;#AI绘画技术&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第二篇文章</title>
+    <link href="https://lcf2827.gitee.io/2023/03/26/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://lcf2827.gitee.io/2023/03/26/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2023-03-26T15:14:16.000Z</published>
+    <updated>2023-03-27T06:37:43.215Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;如何看待俄乌战争&quot;&gt;&lt;a href=&quot;#如何看待俄乌战争&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="https://lcf2827.gitee.io/2023/03/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://lcf2827.gitee.io/2023/03/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2023-03-23T08:42:21.000Z</published>
+    <updated>2023-03-27T06:37:18.067Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;林昌发是谁&quot;&gt;&lt;a href=&quot;#林昌发是谁&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

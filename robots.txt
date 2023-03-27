@@ -9,5 +9,5 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
 Disallow: /fancybox/
-Sitemap: https://lcf2827.github.io/sitemap.xml
-Sitemap: https://lcf2827.github.io/baidu_sitemap.xml
+Sitemap: https://lcf2827.gitee.io/sitemap.xml
+Sitemap: https://lcf2827.gitee.io/baidusitemap.xml
